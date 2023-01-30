@@ -1,4 +1,4 @@
-# KIsubi-University-Hostel-management-System-Project
+# Kisubi-University-Hostel-management-System-Project
 ![Screenshot from 2021-09-12 05-50-45](https://user-images.githubusercontent.com/89752022/132985292-9abb8903-373e-4747-9975-7d4b92a891a7.png)
 ![Screenshot from 2021-09-12 05-49-42](https://user-images.githubusercontent.com/89752022/132985293-494d50cf-a9f1-4ce9-9ce2-df9d6303ccba.png)
 ![Screenshot from 2021-09-12 05-50-41](https://user-images.githubusercontent.com/89752022/132985294-c334c6f2-c002-47d9-934e-430ba3ef0663.png)
